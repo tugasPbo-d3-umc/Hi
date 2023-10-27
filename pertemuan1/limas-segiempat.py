@@ -1,7 +1,7 @@
 # program menghitung luas dan volume limas segiempat
 
 # Pertemuan 1
-# Programmer: Misnen
+# Programmer: Hidayat
 # Tanggal:  22 Oktober 2023
 
 luasSisi = 10;

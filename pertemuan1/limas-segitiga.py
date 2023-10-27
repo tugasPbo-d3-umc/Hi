@@ -1,7 +1,7 @@
 #Program menghitung luas dan volume limas segitiga
 
 # Pertemuan 1
-# Programmer: Misnen
+# Programmer: Hidayat
 # Tanggal:  22 Oktober 2023
 
 luasSegitiga = 10;
